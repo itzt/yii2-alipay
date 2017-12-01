@@ -9,7 +9,7 @@ PC端即时到账支付宝付款接口
 运行
 
 ```
-php composer.phar require --prefer-dist itzt/yii2-alipay
+php composer.phar require itzt/yii2-alipay
 ```
 
 或者 添加
