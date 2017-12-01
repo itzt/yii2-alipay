@@ -1,0 +1,24 @@
+{
+    "name": "itzt/yii2-alipay",
+    "description": "this is the yii2.0 alipay",
+    "type": "library",
+    "require": {
+        "yiisoft/yii2": "^2.0"
+    },
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "itzt",
+            "email": "wskaitt@sina.cn",
+            "homepage": "https://www.wskat.com",
+            "role": "Developer"            
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload":{
+        "psr-4":{
+            "itzt\\alipay\\":"src"
+        }
+    }
+
+}
